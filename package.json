@@ -1,5 +1,5 @@
 {
-  "name": "next-js-boilerplate",
+  "name": "starknet-frontend",
   "version": "3.46.0",
   "scripts": {
     "dev:spotlight": "spotlight-sidecar",
